@@ -3,7 +3,7 @@
 # Your local
 1. Create a new project and open it with vscode <br>
 2. Clone repository to your computer <br>
-`github.com/ozanuslan/frontend.git` <br>
+`github.com/jotform/frontend.git` <br>
 3. Create a folder named .vscode in your project and inside this folder create a file named sftp.json <br>
 4. Configre the sftp.json under .vscode/sftp.config.json by changing the #USERNAME# fields with the username provided to you. If you configured SSH with the automated script, you need to change ~/.ssh/id_rsa to ~/.ssh/id_jotform <br> <br>
 <img width="1440" alt="Ekran Resmi 2022-08-23 17 45 07" src="https://user-images.githubusercontent.com/79723267/186188763-6746377d-9c8e-4317-8431-88a178391028.png"> <br>
